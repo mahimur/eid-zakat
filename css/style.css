@@ -128,3 +128,77 @@
 .icon h3 {
     padding: 10px 0;
 }
+
+/* iconbox end */
+
+.gallery {
+    margin: 0 16%;
+    padding-bottom: 100px;
+    padding-top: 50px;
+}
+
+.image-gallery {
+    width: 30%;
+    margin-right: 25px;
+    border-radius: 10px;
+}
+
+/* end gallery */
+
+.image-box-header {
+    text-align: center;
+    margin: 0 25%;
+}
+
+.image-boxes {
+    display: flex;
+    margin: 0 16%;
+    padding-bottom: 100px;
+}
+
+.image-box {
+    width: 30%;
+    margin-right: 25px;
+    background: #fff;
+    border-radius: 10px;
+    border: 1px solid rgb(35, 34, 34);
+}
+
+.image-box img {
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+}
+
+.image-box-container {
+    padding: 20px;
+}
+
+.image-box-container h3 {
+    padding-bottom: 10px;
+}
+
+.image-box-container p {
+    padding-bottom: 10px;
+}
+
+.image-box-container a {
+    font-size: 20px;
+    color: #EF233C;
+    margin-top: 10px;
+}
+
+/* end imagebox */
+
+.footer {
+    text-align: center;
+    padding: 40px 0;
+    background: #000;
+    color: #fff;
+}
+
+.footer h2 {
+    color: #EF233C;
+    font-style: italic;
+    font-size: 46px;
+    padding-bottom: 10px;
+}
