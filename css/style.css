@@ -88,3 +88,43 @@
     margin-left: 50px;
     padding-top: 30px;
 }
+
+/* blogs end */
+
+.help {
+    padding-bottom: 50px;
+}
+
+.text {
+    text-align: center;
+    margin: 0 25%;
+
+}
+
+
+.first-box {
+    display: flex;
+    margin: 0 20%;
+}
+
+.second-box {
+    display: flex;
+    margin: 20px 20%;
+}
+
+.icon {
+    color: #000;
+    background-color: #FEF4F5;
+    border-radius: 10px;
+    padding: 30px;
+    margin-right: 20px;
+}
+
+.fa-solid {
+    font-size: 40px;
+    color: #EF233C;
+}
+
+.icon h3 {
+    padding: 10px 0;
+}
